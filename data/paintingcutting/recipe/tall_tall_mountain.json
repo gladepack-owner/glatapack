@@ -9,10 +9,10 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-      "minecraft:custom_model_data": 629050,
+      "minecraft:custom_model_data": 629087,
       "minecraft:entity_data": {
         "id": "minecraft:painting",
-        "variant":"minecraft:orb"
+        "variant":"minecraft:tall_tall_mountain"
       }
     }
   }
