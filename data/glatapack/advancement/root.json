@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:azalea"
+		},
+		"title": {"translate":"Glatapack"},
+		"description": {"color":"#CCCCCC","translate":"Gladepack Server Addon"},
+		"background": "minecraft:textures/block/deepslate.png",
+		"show_toast": false,
+		"announce_to_chat": false
+	},	
+	"criteria": {
+		"location": {
+			"trigger": "minecraft:location"
+		}
+	}
+}

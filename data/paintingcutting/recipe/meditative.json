@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "group": "painting",
+  "ingredient": {
+    "item": "minecraft:painting"
+  },
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:custom_model_data": 629031,
+      "minecraft:entity_data": {
+        "id": "minecraft:painting",
+        "variant":"minecraft:meditative"
+      }
+    }
+  }
+}

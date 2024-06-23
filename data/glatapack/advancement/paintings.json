@@ -1,0 +1,17 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:painting"
+		},
+		"title": {"translate":"Custom Paintings"},
+		"description": {"color":"green","translate":"Adds custom paintings to the game and allows them to be uniquely selected in a stonecutter"},
+		"show_toast": false,
+		"announce_to_chat": false
+	},
+    "parent": "glatapack:root",
+	"criteria": {
+		"tick": {
+			"trigger": "minecraft:tick"
+		}
+	}
+}
