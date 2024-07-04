@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:relogic.corruption_theme"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.relogic_terraria.corruption_theme",
+    "fallback": "Re-Logic - Corruption Theme"
+  },
+  "length_in_seconds": 157,
+  "comparator_output": 2
+}
