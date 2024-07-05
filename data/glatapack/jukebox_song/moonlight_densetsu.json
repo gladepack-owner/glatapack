@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:andyheyward.moonlight_densetsu"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.andyheyward_sailormoon.moonlight_densetsu",
+    "fallback": "Andy Heyward - Moonlight Densetsu"
+  },
+  "length_in_seconds": 157,
+  "comparator_output": 2
+}
