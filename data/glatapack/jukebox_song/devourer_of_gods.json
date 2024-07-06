@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:dmdokuro.devourer_of_gods"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.dmdokuro.devourer_of_gods",
+    "fallback": "DM DOKURO - The Devourer of Gods"
+  },
+  "length_in_seconds": 846,
+  "comparator_output": 6
+}

@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:transsiberian.christmas_sarajevo"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.transsiberian_orchestra.christmas_sarajevo",
+    "fallback": "Trans-Siberian Orchestra - Christmas Eve / Sarajevo (Timeless Version)"
+  },
+  "length_in_seconds": 222,
+  "comparator_output": 3
+}

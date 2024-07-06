@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:barchimusicanova.crucifixus"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.barchimusicanova.crucifixus",
+    "fallback": "Coro Musicanova and Fabrizio Barchi - Crucifixus"
+  },
+  "length_in_seconds": 184,
+  "comparator_output": 2
+}

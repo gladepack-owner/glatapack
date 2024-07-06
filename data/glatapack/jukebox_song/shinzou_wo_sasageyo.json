@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:linkedhorizon.shinzou_wo_sasageyo"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.linkedhorizon.shinzou_wo_sasageyo",
+    "fallback": "Linked Horizon - Shinzou Wo Sasageyo"
+  },
+  "length_in_seconds": 341,
+  "comparator_output": 11
+}

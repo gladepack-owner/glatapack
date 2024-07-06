@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:naoshimizuta.pioneers"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.naoshimizuta.pioneers",
+    "fallback": "Naoshi Mizuta - The Pioneers"
+  },
+  "length_in_seconds": 203,
+  "comparator_output": 10
+}

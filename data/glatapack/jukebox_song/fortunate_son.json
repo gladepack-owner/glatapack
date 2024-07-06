@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:creedenceclearwaterrevival.fortunate_son"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.creedenceclearwaterrevival.fortunate_son",
+    "fallback": "Creedence Clearwater Revival - Forunate Son"
+  },
+  "length_in_seconds": 147,
+  "comparator_output": 7
+}

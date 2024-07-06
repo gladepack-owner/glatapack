@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:thatonegingerfromsp.pigfire"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.thatonegingerfromsp.pigfire",
+    "fallback": "ThatOneGingerFromSP - PigFire"
+  },
+  "length_in_seconds": 145,
+  "comparator_output": 13
+}

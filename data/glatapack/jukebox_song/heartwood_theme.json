@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:legendsarceus.heartwood_theme"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.legendsarceus.heartwood_theme",
+    "fallback": "J. Masuda, G. Ichinose, H. Sato, H. Maeba - The Heartwood Theme"
+  },
+  "length_in_seconds": 363,
+  "comparator_output": 8
+}

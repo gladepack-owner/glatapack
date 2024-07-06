@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:yokotakahashi.cruel_angels_thesis"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.yokotakahashi.cruel_angels_thesis",
+    "fallback": "Yoko Takahashi - Cruel Angel's Thesis"
+  },
+  "length_in_seconds": 245,
+  "comparator_output": 5
+}

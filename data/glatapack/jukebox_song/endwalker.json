@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:primals.endwalker"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.theprimals.endwalker",
+    "fallback": "Masayoshi Soken & THE PRIMALS - ENDWALKER"
+  },
+  "length_in_seconds": 178,
+  "comparator_output": 1
+}
