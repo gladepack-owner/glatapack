@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:matthewseiji.celeste_core"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.matthewseiji_celestecore.saygoodbyemix",
+    "fallback": "Matthewせいじ - Celeste Core - Say Goodbye Mix"
+  },
+  "length_in_seconds": 227,
+  "comparator_output": 2
+}
