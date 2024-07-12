@@ -12,3 +12,4 @@ give @p minecraft:music_disc_11[minecraft:custom_model_data=1010,minecraft:jukeb
 give @p minecraft:music_disc_11[minecraft:custom_model_data=1011,minecraft:jukebox_playable={song:"glatapack:cruel_angels_thesis"}]
 give @p minecraft:music_disc_11[minecraft:custom_model_data=1012,minecraft:jukebox_playable={song:"glatapack:scarlet_sky"}]
 give @p minecraft:music_disc_11[minecraft:custom_model_data=1013,minecraft:jukebox_playable={song:"glatapack:devourer_of_gods"}]
+give @p minecraft:disc_fragment_5[minecraft:custom_model_data=9000]

@@ -54,20 +54,20 @@
         },
         {
           "type":"minecraft:item",
-          "name":"minecraft:music_disc_11",
-          "weight":5,
+          "name":"minecraft:disc_fragment_5",
+          "weight":20,
           "functions":[
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data": 1004
-                  }
-              },
-              {
-                  "function":"minecraft:set_components",
-                  "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:shinzou_wo_sasageyo"}
-                  }
+                      "minecraft:custom_model_data": 9000
+                  },
+                  "add": false,
+                  "count": {
+                  "type": "minecraft:uniform",
+                  "max": 3.0,
+                  "min": 0.0
+                }
               }
           ]
         },
