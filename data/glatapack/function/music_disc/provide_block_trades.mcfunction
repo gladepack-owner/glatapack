@@ -19,7 +19,7 @@ execute if score @s gp_trades >= @s gp_random run scoreboard players reset @s
 tag @s[tag=!has_new_block_trades] remove success
 
 # Get trade index
-execute store result score @s gp_tradeIndex run random value 1..14
+execute store result score @s gp_tradeIndex run random value 1..12
 
 # Check if trade index is in existing trades
 execute at @s[tag=!success,tag=!has_new_block_trades] as @e[type=minecraft:item,distance=..0.5,tag=trade_index_copy] run function glatapack:music_disc/check_existing_trades
