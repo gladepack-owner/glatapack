@@ -248,7 +248,7 @@
         {
           "type":"minecraft:item",
           "name":"minecraft:music_disc_11",
-          "weight":10,
+          "weight":2,
           "functions":[
               {
                   "function": "minecraft:set_components",

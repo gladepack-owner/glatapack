@@ -156,6 +156,15 @@
           }
         }
       ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "more_mob_heads:entities/cow"
+        }
+      ]
     }
   ],
   "random_sequence": "minecraft:entities/cow"
