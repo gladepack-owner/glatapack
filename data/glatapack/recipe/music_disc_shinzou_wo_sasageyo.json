@@ -2,16 +2,11 @@
     "type": "minecraft:crafting_shaped",
     "pattern": [
         "###",
-        "###",
+        "# #",
         "###"
     ],
     "key": {
-        "#": {
-            "item": "minecraft:disc_fragment_5",
-            "components": {
-            "minecraft:custom_model_data": 9000
-      }
-        }
+        "#": "minecraft:disc_fragment_5"
     },
     "result": {
         "id": "minecraft:music_disc_11",

@@ -2,9 +2,7 @@
   "type": "minecraft:stonecutting",
   "category": "building",
   "group": "painting",
-  "ingredient": {
-    "item": "minecraft:painting"
-  },
+  "ingredient": "minecraft:painting",
   "result": {
     "id": "minecraft:painting",
     "count": 1,
