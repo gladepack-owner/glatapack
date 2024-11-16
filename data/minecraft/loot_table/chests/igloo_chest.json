@@ -50,7 +50,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"all_the_music:christmas_sarajevo"}
+                      "minecraft:jukebox_playable": {"song":"glatapack:christmas_sarajevo"}
                   }
               }
           ]
