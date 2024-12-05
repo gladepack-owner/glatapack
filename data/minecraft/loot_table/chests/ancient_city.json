@@ -439,7 +439,7 @@
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data": {"strings": ["1003"]}
+                      "minecraft:custom_model_data": {"floats": [1003]}
                   }
               },
               {

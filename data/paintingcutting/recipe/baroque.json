@@ -7,7 +7,7 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-      "minecraft:custom_model_data": {"strings":["629033"]},
+      "minecraft:custom_model_data": {"floats":[629033]},
       "minecraft:entity_data": {
         "id": "minecraft:painting",
         "variant":"minecraft:baroque"

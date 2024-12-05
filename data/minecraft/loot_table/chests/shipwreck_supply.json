@@ -60,7 +60,7 @@
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data": {"strings": ["9000"]}
+                      "minecraft:custom_model_data": {"floats": [9000]}
                   },
                   "add": false,
                   "count": {
