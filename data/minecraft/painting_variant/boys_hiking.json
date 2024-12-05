@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:boys_hiking",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Pre-College Hiking", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:jolly_roger_bay",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Jolly Roger Bay", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

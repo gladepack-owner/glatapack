@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:smash_pano",
   "height": 3,
-  "width": 16
+  "width": 16,
+  "title": {"text": "Everyone is Here!", "color": "yellow"},
+  "author": {"text": "Yusuke Nakano", "color": "gray"}
 }

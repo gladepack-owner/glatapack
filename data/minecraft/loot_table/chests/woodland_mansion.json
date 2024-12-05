@@ -303,7 +303,8 @@
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data":1006 
+                      "minecraft:item_model": "glatapack:custom_disc_11",
+                      "minecraft:custom_model_data": {"strings": ["1006"]} 
                   }
               },
               {
@@ -322,7 +323,8 @@
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data":1012 
+                      "minecraft:item_model": "glatapack:custom_disc_11",
+                      "minecraft:custom_model_data": {"strings": ["1012"]} 
                   }
               },
               {

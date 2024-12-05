@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:bob_omb_battlefield",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Bob-omb Battlefield", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

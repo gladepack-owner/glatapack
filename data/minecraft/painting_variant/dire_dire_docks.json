@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:dire_dire_docks",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Dire Dire Docks", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

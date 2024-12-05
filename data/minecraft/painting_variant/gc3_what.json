@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:gc3_what",
   "height": 3,
-  "width": 4
+  "width": 4,
+  "title": {"text": "WHAT?!", "color": "yellow"},
+  "author": {"text": "Hypwr", "color": "gray"}
 }

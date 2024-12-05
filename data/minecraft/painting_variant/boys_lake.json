@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:boys_lake",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": "The Boys on the Lake", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

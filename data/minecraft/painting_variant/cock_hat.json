@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:cock_hat",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": "Cock Hat", "color": "yellow"},
+  "author": {"text": "???", "color": "gray"}
 }

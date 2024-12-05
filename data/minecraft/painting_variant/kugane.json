@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:kugane",
   "height": 4,
-  "width": 4
+  "width": 4,
+  "title": {"text": "FFXIV The Kugane", "color": "yellow"},
+  "author": {"text": "FFXIV Art Team", "color": "gray"}
 }

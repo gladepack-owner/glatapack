@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:bowser",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Bowser", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

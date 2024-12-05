@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:lan_party",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "LAN Party", "color": "yellow"},
+  "author": {"text": "Nolan Mense", "color": "gray"}
 }

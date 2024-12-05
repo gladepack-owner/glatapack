@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:three_stooges",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": "The Three Stooges", "color": "yellow"},
+  "author": {"text": "Bret, Josh, and Schanz", "color": "gray"}
 }

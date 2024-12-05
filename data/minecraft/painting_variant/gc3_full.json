@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:gc3_full",
   "height": 2,
-  "width": 4
+  "width": 4,
+  "title": {"text": "Gladecraft Logo", "color": "yellow"},
+  "author": {"text": "Nolan Mense", "color": "gray"}
 }

@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:lethal_lava_land",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Lethal Lava Land", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:stuffed_animal",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": "Stuffed Animal Gang", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

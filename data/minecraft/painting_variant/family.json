@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:family",
   "height": 3,
-  "width": 4
+  "width": 4,
+  "title": {"text": "Family Picture", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

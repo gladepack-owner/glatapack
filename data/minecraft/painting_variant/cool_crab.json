@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:cool_crab",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": "Cool Crab", "color": "yellow"},
+  "author": {"text": "???", "color": "gray"}
 }

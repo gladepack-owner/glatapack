@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:ditto_jar",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Ditto Jar", "color": "yellow"},
+  "author": {"text": "Nolan Mense", "color": "gray"}
 }

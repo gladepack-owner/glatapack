@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:boys_camping",
   "height": 2,
-  "width": 4
+  "width": 4,
+  "title": {"text": "Camping with the Boys", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

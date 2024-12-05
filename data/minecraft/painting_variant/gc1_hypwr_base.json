@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:gc1_hypwr_base",
   "height": 1,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Hypwr's Gladecraft 1 Base", "color": "yellow"},
+  "author": {"text": "LogLug", "color": "gray"}
 }

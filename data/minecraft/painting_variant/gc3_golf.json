@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:gc3_golf",
   "height": 2,
-  "width": 5
+  "width": 5,
+  "title": {"text": "Anniversary Golfing", "color": "yellow"},
+  "author": {"text": "nonomense", "color": "gray"}
 }

@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:gebke_warden",
   "height": 1,
-  "width": 1
+  "width": 1,
+  "title": {"text": ":O", "color": "yellow"},
+  "author": {"text": "Nolan Mense", "color": "gray"}
 }

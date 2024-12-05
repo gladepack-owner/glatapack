@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:wet_dry_world",
   "height": 4,
-  "width": 4
+  "width": 4,
+  "title": {"text": "Wet Dry World", "color": "yellow"},
+  "author": {"text": "Nintendo", "color": "gray"}
 }

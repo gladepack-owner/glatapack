@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:epicot",
   "height": 2,
-  "width": 2
+  "width": 2,
+  "title": {"text": "Disney World Senior Trip 2021 (Epicot)", "color": "yellow"},
+  "author": {"text": "Dale Barschak", "color": "gray"}
 }

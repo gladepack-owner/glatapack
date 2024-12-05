@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:celeste_cover",
   "height": 4,
-  "width": 4
+  "width": 4,
+  "title": {"text": "Celeste Cover Art", "color": "yellow"},
+  "author": {"text": "Amora Bettany", "color": "gray"}
 }

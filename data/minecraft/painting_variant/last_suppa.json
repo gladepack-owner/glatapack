@@ -1,5 +1,7 @@
 {
   "asset_id": "minecraft:last_suppa",
   "height": 3,
-  "width": 4
+  "width": 4,
+  "title": {"text": "The Last Suppa", "color": "yellow"},
+  "author": {"text": "The Brunch Boyz", "color": "gray"}
 }

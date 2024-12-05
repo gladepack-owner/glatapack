@@ -60,7 +60,8 @@
               {
                   "function": "minecraft:set_components",
                   "components": {
-                      "minecraft:custom_model_data": 9000
+                      "minecraft:item_model": "glatapack:custom_disc_fragment",
+                      "minecraft:custom_model_data": {"strings": ["9000"]}
                   },
                   "add": false,
                   "count": {
