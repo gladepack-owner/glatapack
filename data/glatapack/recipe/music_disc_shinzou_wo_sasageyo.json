@@ -12,7 +12,6 @@
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
-      "minecraft:item_model": "glatapack:painting_icons",
             "minecraft:custom_model_data": {"strings":["1004"]},
             "minecraft:jukebox_playable": {"song":"glatapack:shinzou_wo_sasageyo"}
       }

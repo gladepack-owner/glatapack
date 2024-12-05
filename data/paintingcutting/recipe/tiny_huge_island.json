@@ -7,7 +7,6 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-      "minecraft:item_model": "glatapack:painting_icons",
       "minecraft:custom_model_data": {"strings":["629090"]},
       "minecraft:entity_data": {
         "id": "minecraft:painting",
