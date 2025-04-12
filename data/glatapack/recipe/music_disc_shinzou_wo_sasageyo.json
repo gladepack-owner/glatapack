@@ -13,7 +13,7 @@
         "count": 1,
         "components": {
             "minecraft:custom_model_data": {"floats":[1004]},
-            "minecraft:jukebox_playable": {"song":"glatapack:shinzou_wo_sasageyo"}
+            "minecraft:jukebox_playable": "glatapack:shinzou_wo_sasageyo"
       }
     }
 }

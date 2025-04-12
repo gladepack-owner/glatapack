@@ -445,7 +445,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:celeste_core"}
+                      "minecraft:jukebox_playable": "glatapack:celeste_core"
                   }
               }
           ]

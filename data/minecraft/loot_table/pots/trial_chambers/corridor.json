@@ -93,7 +93,7 @@
                 {
                     "function":"minecraft:set_components",
                     "components":{
-                        "minecraft:jukebox_playable": {"song":"glatapack:fortunate_son"}
+                        "minecraft:jukebox_playable": "glatapack:fortunate_son"
                     }
                 }
             ]

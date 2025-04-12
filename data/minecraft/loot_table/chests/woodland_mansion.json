@@ -309,7 +309,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:heartwood_theme"}
+                      "minecraft:jukebox_playable": "glatapack:heartwood_theme"
                   }
               }
           ]
@@ -328,7 +328,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:scarlet_sky"}
+                      "minecraft:jukebox_playable": "glatapack:scarlet_sky"
                   }
               }
           ]

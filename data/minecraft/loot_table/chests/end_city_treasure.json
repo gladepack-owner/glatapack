@@ -357,7 +357,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:moonlight_densetsu"}
+                      "minecraft:jukebox_playable": "glatapack:moonlight_densetsu"
                   }
               }
           ]

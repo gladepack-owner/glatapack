@@ -65,7 +65,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:pioneers"}
+                      "minecraft:jukebox_playable": "glatapack:pioneers"
                   }
               }
           ]

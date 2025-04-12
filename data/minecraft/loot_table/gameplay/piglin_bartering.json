@@ -259,7 +259,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:crucifixus"}
+                      "minecraft:jukebox_playable": "glatapack:crucifixus"
                   }
               }
           ]

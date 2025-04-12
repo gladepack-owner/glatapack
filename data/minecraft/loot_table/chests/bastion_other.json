@@ -131,7 +131,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:pigfire"}
+                      "minecraft:jukebox_playable": "glatapack:pigfire"
                   }
               }
           ]

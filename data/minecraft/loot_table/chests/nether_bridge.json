@@ -151,7 +151,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:corruption_theme"}
+                      "minecraft:jukebox_playable": "glatapack:corruption_theme"
                   }
               }
           ]

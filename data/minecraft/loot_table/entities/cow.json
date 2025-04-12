@@ -114,7 +114,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:devourer_of_gods"}
+                      "minecraft:jukebox_playable": "glatapack:devourer_of_gods"
                   }
               }
           ]
@@ -132,7 +132,7 @@
               {
                   "function":"minecraft:set_components",
                   "components":{
-                      "minecraft:jukebox_playable": {"song":"glatapack:endwalker"}
+                      "minecraft:jukebox_playable": "glatapack:endwalker"
                   }
               }
           ]
