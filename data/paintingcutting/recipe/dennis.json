@@ -7,7 +7,7 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-"minecraft:painting/variant": "minecraft:cock_hat"
+      "minecraft:painting/variant": "minecraft:dennis"
     }
   }
 }

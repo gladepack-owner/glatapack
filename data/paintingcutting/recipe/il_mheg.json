@@ -7,11 +7,7 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-      "minecraft:custom_model_data": {"floats":[629076]},
-      "minecraft:entity_data": {
-        "id": "minecraft:painting",
-        "variant":"minecraft:il_mheg"
-      }
+"minecraft:painting/variant": "minecraft:il_mheg"
     }
   }
 }

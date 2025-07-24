@@ -7,11 +7,7 @@
     "id": "minecraft:painting",
     "count": 1,
     "components": {
-      "minecraft:custom_model_data": {"floats":[629051]},
-      "minecraft:entity_data": {
-        "id": "minecraft:painting",
-        "variant":"minecraft:a_view_from_underwater"
-      }
+      "minecraft:painting/variant": "minecraft:a_view_from_underwater"
     }
   }
 }
