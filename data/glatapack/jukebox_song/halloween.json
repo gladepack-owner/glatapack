@@ -1,0 +1,11 @@
+{
+  "sound_event": {
+    "sound_id": "glatapack:halloween"
+  },
+  "description": {
+    "translate": "jukebox_song.glatapack.halloween",
+    "fallback": "Spooky Scary Skeletons"
+  },
+  "length_in_seconds": 158,
+  "comparator_output": 1
+}

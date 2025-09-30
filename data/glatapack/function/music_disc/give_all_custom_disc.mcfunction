@@ -12,4 +12,5 @@ give @p minecraft:music_disc_11[minecraft:custom_model_data={floats:[1010]},mine
 give @p minecraft:music_disc_11[minecraft:custom_model_data={floats:[1011]},minecraft:jukebox_playable="glatapack:cruel_angels_thesis"]
 give @p minecraft:music_disc_11[minecraft:custom_model_data={floats:[1012]},minecraft:jukebox_playable="glatapack:scarlet_sky"]
 give @p minecraft:music_disc_11[minecraft:custom_model_data={floats:[1013]},minecraft:jukebox_playable="glatapack:devourer_of_gods"]
+give @p minecraft:music_disc_11[minecraft:custom_model_data={floats:[1014]},minecraft:jukebox_playable="glatapack:halloween"]
 give @p minecraft:disc_fragment_5[minecraft:custom_model_data={floats:[9000]}]

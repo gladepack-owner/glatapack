@@ -5,7 +5,7 @@
 		},
 		"title": {"translate":"Glatapack"},
 		"description": {"color":"#CCCCCC","translate":"Gladepack Server Addon"},
-		"background": "minecraft:textures/block/deepslate.png",
+		"background": "minecraft:block/deepslate",
 		"show_toast": false,
 		"announce_to_chat": false
 	},	

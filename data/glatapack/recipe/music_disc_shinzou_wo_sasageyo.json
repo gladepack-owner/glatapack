@@ -1,17 +1,18 @@
 {
     "type": "minecraft:crafting_shaped",
+    "key": {
+        "#": "minecraft:disc_fragment_5"
+    },
     "pattern": [
         "###",
         "# #",
         "###"
     ],
-    "key": {
-        "#": "minecraft:disc_fragment_5"
-    },
     "result": {
         "id": "minecraft:music_disc_11",
         "count": 1,
         "components": {
+            "minecraft:custom_model_data": {"floats": [1004.0]},
             "minecraft:jukebox_playable": "glatapack:shinzou_wo_sasageyo"
       }
     }
