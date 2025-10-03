@@ -58,10 +58,13 @@
           "weight":20,
           "functions":[
               {
-                  "function": "minecraft:set_components",
+                "function": "minecraft:set_components",
                   "components": {
                       "minecraft:custom_model_data": {"floats": [9000]}
-                  },
+                  }
+              },
+              {
+                  "function": "minecraft:set_count",
                   "add": false,
                   "count": {
                   "type": "minecraft:uniform",

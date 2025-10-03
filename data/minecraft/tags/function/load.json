@@ -1,6 +1,7 @@
 {
     "values": [
         "glatapack:music_disc/load",
-        "glatapack:music_disc/tick"
+        "glatapack:music_disc/tick",
+        "glatapack.block:load"
     ]
 }

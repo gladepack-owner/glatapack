@@ -1,0 +1,16 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:pumpkin",
+        "minecraft:green_dye"
+    ],
+    "result": {
+        "id": "minecraft:item_frame",
+        "count": 1,
+        "components": {
+            "minecraft:item_name": {"text": "Mayor Pumpkin's Perfect Specimen", "color": "light_purple"},
+            "minecraft:custom_model_data": {"strings": ["glatapack.green_pumpkin"]},
+            "minecraft:entity_data": {"id":"item_frame","Invulnerable": true,"Invisible": true,"Fixed": true,"Silent": true,"Tags": ["glatapack.item_frame_block","glatapack.green_pumpkin"],"Facing": 1}
+        }
+    }
+}

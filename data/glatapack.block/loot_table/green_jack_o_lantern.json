@@ -1,0 +1,23 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:item_frame",
+          "functions": [
+            {
+              "function": "minecraft:set_components",
+              "components": {
+                "minecraft:item_name": {"text": "Mayor Pumpkin's Prized Jack o'Lantern", "color": "light_purple"},
+                "minecraft:custom_model_data": {"strings": ["glatapack.green_jack_o_lantern"]},
+                "minecraft:entity_data": {"id":"item_frame","Invulnerable": true,"Invisible": true,"Fixed": true,"Silent": true,"Tags": ["glatapack.item_frame_block","glatapack.green_jack_o_lantern"],"Facing": 1}
+              }
+            }         
+          ]
+        }
+      ]
+    }
+  ]
+}
