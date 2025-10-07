@@ -1,0 +1,24 @@
+{
+	"display": {
+		"icon": {
+			"id": "minecraft:item_frame",
+			"components": {
+				"minecraft:custom_model_data": {"strings": ["glatapack.green_jack_o_lantern"]}
+        	}
+		},
+		"title": {"translate":"Halloween 2025 Event"},
+		"description": {"color":"green","translate":"You got Mayor Pumpkin's Prized Jack o'Lantern!"},
+		"show_toast": true,
+		"announce_to_chat": false,
+		"frame": "challenge"
+	},
+    "parent": "glatapack:events",
+	"criteria": {
+		"main": {
+			"trigger": "minecraft:recipe_crafted",
+			"conditions": {
+				"recipe_id": "glatapack:green_jack_o_lantern"
+			}
+		}
+	}
+}
