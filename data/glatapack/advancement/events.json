@@ -1,10 +1,10 @@
 {
 	"display": {
 		"icon": {
-			"id": "minecraft:spyglass"
+			"id": "minecraft:firework_rocket"
 		},
 		"title": {"translate":"Events"},
-		"description": {"color":"green","translate":"Added content for server events"},
+		"description": {"color":"green","translate":"Adds content for server events"},
 		"show_toast": false,
 		"announce_to_chat": false
 	},
