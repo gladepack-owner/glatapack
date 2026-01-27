@@ -12,3 +12,5 @@ execute as @e[type=minecraft:wandering_trader,tag=!gp_has_new_block_trades] at @
 effect give @e[type=minecraft:wandering_trader,tag=!gp_has_new_trades] minecraft:slowness 1 255 true
 
 execute as @e[type=minecraft:wandering_trader,tag=gp_has_new_trades] at @s run kill @e[type=minecraft:item,tag=gp_trade_index_item,limit=2,sort=nearest,distance=..0.5]
+
+execute as @a run function glatapack:music_disc/fix_held_disc
