@@ -1,0 +1,13 @@
+﻿{
+  "type": "minecraft:stonecutting",
+  "category": "building",
+  "group": "painting",
+  "ingredient": "minecraft:painting",
+  "result": {
+    "id": "minecraft:painting",
+    "count": 1,
+    "components": {
+      "minecraft:painting/variant": "minecraft:bowser"
+    }
+  }
+}
