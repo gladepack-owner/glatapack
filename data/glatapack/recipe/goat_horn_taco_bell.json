@@ -1,0 +1,15 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+        "minecraft:goat_horn",
+        "minecraft:bell"
+    ],
+    "result": {
+        "id": "minecraft:goat_horn",
+        "count": 1,
+        "components": {
+            "minecraft:custom_model_data": {"floats": [15000.0]},
+            "minecraft:instrument": "glatapack:goat_horn_taco_bell"
+      }
+    }
+}

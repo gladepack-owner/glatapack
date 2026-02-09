@@ -1,0 +1,11 @@
+{
+    "description": {
+        "translate": "glatapack.goat_horn.taco_bell",
+        "fallback": "Taco Bell"
+    },
+    "sound_event": {
+        "sound_id": "goat_horn.taco_bell"
+    },
+    "use_duration": 7.0,
+    "range": 256.0
+}
