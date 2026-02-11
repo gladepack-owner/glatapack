@@ -1,0 +1,11 @@
+{
+    "description": {
+        "translate": "glatapack.goat_horn.josh_scream",
+        "fallback": "Josh Scream"
+    },
+    "sound_event": {
+        "sound_id": "glatapack:item.goat_horn.josh_scream"
+    },
+    "use_duration": 7.0,
+    "range": 256.0
+}

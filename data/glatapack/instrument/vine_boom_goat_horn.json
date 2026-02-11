@@ -1,0 +1,11 @@
+{
+    "description": {
+        "translate": "glatapack.goat_horn.vine_boom",
+        "fallback": "Vine Boom"
+    },
+    "sound_event": {
+        "sound_id": "glatapack:item.goat_horn.vine_boom"
+    },
+    "use_duration": 7.0,
+    "range": 256.0
+}

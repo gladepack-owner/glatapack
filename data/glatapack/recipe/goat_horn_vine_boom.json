@@ -2,14 +2,14 @@
     "type": "minecraft:crafting_shapeless",
     "ingredients": [
         "minecraft:goat_horn",
-        "minecraft:bell"
+        "minecraft:vine"
     ],
     "result": {
         "id": "minecraft:goat_horn",
         "count": 1,
         "components": {
-            "minecraft:custom_model_data": {"floats": [15000.0]},
-            "minecraft:instrument": "glatapack:taco_bell_goat_horn"
+            "minecraft:custom_model_data": {"floats": [15002.0]},
+            "minecraft:instrument": "glatapack:vine_boom_goat_horn"
       }
     }
 }
