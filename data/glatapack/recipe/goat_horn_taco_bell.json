@@ -8,7 +8,6 @@
         "id": "minecraft:goat_horn",
         "count": 1,
         "components": {
-            "minecraft:custom_model_data": {"floats": [15000.0]},
             "minecraft:instrument": "glatapack:taco_bell_goat_horn"
       }
     }
