@@ -6,6 +6,6 @@
     "sound_event": {
         "sound_id": "glatapack:item.goat_horn.vine_boom"
     },
-    "use_duration": 7.0,
+    "use_duration": 2.0,
     "range": 256.0
 }

@@ -6,6 +6,6 @@
     "sound_event": {
         "sound_id": "glatapack:item.goat_horn.josh_scream"
     },
-    "use_duration": 7.0,
+    "use_duration": 3.0,
     "range": 256.0
 }
