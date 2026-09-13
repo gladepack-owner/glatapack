@@ -143,7 +143,7 @@
           "condition": "minecraft:damage_source_properties",
           "predicate": {
             "direct_entity": {
-              "type": "minecraft:area_effect_cloud"
+              "entity_type": "minecraft:area_effect_cloud"
             }
           }
         },
@@ -151,7 +151,7 @@
           "condition": "minecraft:damage_source_properties",
           "predicate": {
             "source_entity": {
-              "type": "minecraft:ender_dragon"
+              "entity_type": "minecraft:ender_dragon"
             }
           }
         }

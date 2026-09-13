@@ -87,24 +87,41 @@
       ]
     },
     {
-      "rolls": 1,
-      "bonus_rolls": 0,
+      "conditions": [
+        {
+          "condition": "minecraft:damage_source_properties",
+          "predicate": {
+            "tags": [
+              {
+                "expected": true,
+                "id": "minecraft:is_lightning"
+              }
+            ]
+          }
+        }
+      ],
       "entries": [
         {
           "type": "minecraft:item",
-          "name": "minecraft:pointed_dripstone",
-          "conditions": [
-            {
-              "condition": "minecraft:damage_source_properties",
-              "predicate": {
-                "direct_entity": {
-                  "type": "minecraft:lightning_bolt"
-                }
+          "name":"minecraft:music_disc_11",
+          "functions":[
+              {
+                  "function": "minecraft:set_components",
+                  "components": {
+                      "minecraft:custom_model_data": {"floats": [1011]},
+                      "damage_resistant": {"types": "lightning_bolt"}
+                  }
+              },
+              {
+                  "function":"minecraft:set_components",
+                  "components":{
+                      "minecraft:jukebox_playable": "glatapack:cruel_angels_thesis"
+                  }
               }
-            }
           ]
         }
-      ]
+      ],
+      "rolls": 1.0
     }
   ],
   "random_sequence": "minecraft:entities/wither_skeleton"
