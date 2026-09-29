@@ -2,6 +2,12 @@
   "asset_id": "minecraft:cool_cool_mountain",
   "height": 2,
   "width": 2,
-  "title": {"text": "Cool Cool Mountain", "color": "yellow"},
-  "author": {"text": "Nintendo", "color": "gray"}
+  "title": {
+    "text": "Cool Cool Mountain",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Nintendo",
+    "color": "gray"
+  }
 }

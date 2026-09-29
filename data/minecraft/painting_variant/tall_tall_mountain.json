@@ -2,6 +2,12 @@
   "asset_id": "minecraft:tall_tall_mountain",
   "height": 2,
   "width": 2,
-  "title": {"text": "Tall Tall Mountain", "color": "yellow"},
-  "author": {"text": "Nintendo", "color": "gray"}
+  "title": {
+    "text": "Tall Tall Mountain",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Nintendo",
+    "color": "gray"
+  }
 }

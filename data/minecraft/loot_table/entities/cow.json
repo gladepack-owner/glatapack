@@ -8,18 +8,17 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:leather",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_count",
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
                 "min": 0,
                 "max": 2
-              },
-              "add": false
+              }
             },
             {
-              "function": "minecraft:enchanted_count_increase",
+              "type": "minecraft:enchanted_count_increase",
               "enchantment": "minecraft:looting",
               "count": {
                 "type": "minecraft:uniform",
@@ -38,54 +37,51 @@
         {
           "type": "minecraft:item",
           "name": "minecraft:beef",
-          "functions": [
+          "modifier": [
             {
-              "function": "minecraft:set_count",
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
                 "min": 1,
                 "max": 3
-              },
-              "add": false
+              }
             },
             {
-              "function": "minecraft:furnace_smelt",
-              "conditions": [
-                {
-                  "condition": "minecraft:any_of",
-                  "terms": [
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "this",
-                      "predicate": {
-                        "flags": {
-                          "is_on_fire": true
-                        }
+              "type": "minecraft:furnace_smelt",
+              "condition": {
+                "type": "minecraft:any_of",
+                "terms": [
+                  {
+                    "type": "minecraft:entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "flags": {
+                        "is_on_fire": true
                       }
-                    },
-                    {
-                      "condition": "minecraft:entity_properties",
-                      "entity": "direct_attacker",
-                      "predicate": {
-                        "equipment": {
-                          "mainhand": {
-                            "predicates": {
-                              "minecraft:enchantments": [
-                                {
-                                  "enchantments": "#minecraft:smelts_loot"
-                                }
-                              ]
-                            }
+                    }
+                  },
+                  {
+                    "type": "minecraft:entity_properties",
+                    "entity": "direct_attacker",
+                    "predicate": {
+                      "equipment": {
+                        "mainhand": {
+                          "predicates": {
+                            "minecraft:enchantments": [
+                              {
+                                "enchantments": "#minecraft:smelts_loot"
+                              }
+                            ]
                           }
                         }
                       }
                     }
-                  ]
-                }
-              ]
+                  }
+                ]
+              }
             },
             {
-              "function": "minecraft:enchanted_count_increase",
+              "type": "minecraft:enchanted_count_increase",
               "enchantment": "minecraft:looting",
               "count": {
                 "type": "minecraft:uniform",
@@ -102,60 +98,71 @@
       "bonus_rolls": 0,
       "entries": [
         {
-          "type":"minecraft:item",
-          "name":"minecraft:music_disc_11",
-          "functions":[
-              {
-                  "function": "minecraft:set_components",
-                  "components": {
-                      "minecraft:custom_model_data": {"floats": [1013]}
-                  }
-              },
-              {
-                  "function":"minecraft:set_components",
-                  "components":{
-                      "minecraft:jukebox_playable": "glatapack:devourer_of_gods"
-                  }
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "floats": [
+                    1013
+                  ]
+                }
               }
+            },
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "glatapack:devourer_of_gods"
+              }
+            }
           ]
         },
         {
-          "type":"minecraft:item",
-          "name":"minecraft:music_disc_11",
-          "functions":[
-              {
-                  "function": "minecraft:set_components",
-                  "components": {
-                      "minecraft:custom_model_data": {"floats": [1008]}
-                  }
-              },
-              {
-                  "function":"minecraft:set_components",
-                  "components":{
-                      "minecraft:jukebox_playable": "glatapack:endwalker"
-                  }
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "floats": [
+                    1008
+                  ]
+                }
               }
+            },
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "glatapack:endwalker"
+              }
+            }
           ]
         }
       ],
-      "conditions": [
-        {
-          "condition": "minecraft:damage_source_properties",
-          "predicate": {
-            "direct_entity": {
-              "entity_type": "minecraft:area_effect_cloud"
+      "condition": {
+        "type": "all_of",
+        "terms": [
+          {
+            "type": "minecraft:damage_source_properties",
+            "predicate": {
+              "direct_entity": {
+                "entity_type": "minecraft:area_effect_cloud"
+              }
+            }
+          },
+          {
+            "type": "minecraft:damage_source_properties",
+            "predicate": {
+              "source_entity": {
+                "entity_type": "minecraft:ender_dragon"
+              }
             }
           }
-        },
-        {
-          "condition": "minecraft:damage_source_properties",
-          "predicate": {
-            "source_entity": {
-              "entity_type": "minecraft:ender_dragon"
-            }
-          }
-        }
-      ]
+        ]
+      }
     },
     {
       "rolls": 1,

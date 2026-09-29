@@ -2,6 +2,12 @@
   "asset_id": "minecraft:gc3",
   "height": 1,
   "width": 1,
-  "title": {"text": "Gladecraft 3 Art", "color": "yellow"},
-  "author": {"text": "Nolan Mense", "color": "gray"}
+  "title": {
+    "text": "Gladecraft 3 Art",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Nolan Mense",
+    "color": "gray"
+  }
 }

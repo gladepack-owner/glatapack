@@ -2,6 +2,12 @@
   "asset_id": "minecraft:whomps_fortress",
   "height": 4,
   "width": 4,
-  "title": {"text": "Whomps Fortress", "color": "yellow"},
-  "author": {"text": "Nintendo", "color": "gray"}
+  "title": {
+    "text": "Whomps Fortress",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Nintendo",
+    "color": "gray"
+  }
 }

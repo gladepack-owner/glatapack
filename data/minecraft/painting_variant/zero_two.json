@@ -2,6 +2,12 @@
   "asset_id": "minecraft:zero_two",
   "height": 2,
   "width": 1,
-  "title": {"text": "Zero Two in the Franxx", "color": "yellow"},
-  "author": {"text": "CloverWorks", "color": "gray"}
+  "title": {
+    "text": "Zero Two in the Franxx",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "CloverWorks",
+    "color": "gray"
+  }
 }

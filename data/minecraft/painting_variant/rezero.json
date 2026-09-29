@@ -2,6 +2,12 @@
   "asset_id": "minecraft:rezero",
   "height": 1,
   "width": 2,
-  "title": {"text": "Re:ZERO Bridge Scene", "color": "yellow"},
-  "author": {"text": "White Fox", "color": "gray"}
+  "title": {
+    "text": "Re:ZERO Bridge Scene",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "White Fox",
+    "color": "gray"
+  }
 }

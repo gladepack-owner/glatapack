@@ -1,14 +1,14 @@
 {
-    "type": "minecraft:crafting_shapeless",
-    "ingredients": [
-        "minecraft:goat_horn",
-        "minecraft:sculk_shrieker"
-    ],
-    "result": {
-        "id": "minecraft:goat_horn",
-        "count": 1,
-        "components": {
-            "minecraft:instrument": "glatapack:josh_scream_goat_horn"
-      }
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:goat_horn",
+    "minecraft:sculk_shrieker"
+  ],
+  "result": {
+    "id": "minecraft:goat_horn",
+    "count": 1,
+    "components": {
+      "minecraft:instrument": "glatapack:josh_scream_goat_horn"
     }
+  }
 }

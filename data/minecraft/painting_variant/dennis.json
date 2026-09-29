@@ -2,6 +2,12 @@
   "asset_id": "minecraft:dennis",
   "height": 3,
   "width": 3,
-  "title": {"text": "Dennis", "color": "yellow"},
-  "author": {"text": "Sara Boeving", "color": "gray"}
+  "title": {
+    "text": "Dennis",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Sara Boeving",
+    "color": "gray"
+  }
 }

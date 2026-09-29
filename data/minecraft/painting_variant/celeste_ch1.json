@@ -2,6 +2,12 @@
   "asset_id": "minecraft:celeste_ch1",
   "height": 1,
   "width": 2,
-  "title": {"text": "Celeste Chapter 1 Complete", "color": "yellow"},
-  "author": {"text": "Amora Bettany", "color": "gray"}
+  "title": {
+    "text": "Celeste Chapter 1 Complete",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "Amora Bettany",
+    "color": "gray"
+  }
 }

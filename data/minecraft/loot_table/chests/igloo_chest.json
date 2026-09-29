@@ -6,70 +6,71 @@
       "entries": [
         {
           "type": "minecraft:item",
-          "functions": [
-            {
-              "add": false,
-              "count": {
-                "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
           "name": "minecraft:apple",
-          "weight": 15
-        },
-        {
-          "type": "minecraft:item",
-          "functions": [
+          "weight": 15,
+          "modifier": [
             {
-              "add": false,
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "max": 4.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
-            }
-          ],
-          "name": "minecraft:coal",
-          "weight": 15
-        },
-        {
-          "type":"minecraft:item",
-          "name":"minecraft:music_disc_11",
-          "weight":6,
-          "functions":[
-              {
-                  "function": "minecraft:set_components",
-                  "components": {
-                      "minecraft:custom_model_data": {"floats": [1003]}
-                  }
-              },
-              {
-                  "function":"minecraft:set_components",
-                  "components":{
-                      "minecraft:jukebox_playable": "glatapack:christmas_sarajevo"
-                  }
+                "max": 3,
+                "min": 1
               }
+            }
           ]
         },
         {
           "type": "minecraft:item",
-          "functions": [
+          "name": "minecraft:coal",
+          "weight": 15,
+          "modifier": [
             {
-              "add": false,
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 1.0
-              },
-              "function": "minecraft:set_count"
+                "max": 4,
+                "min": 1
+              }
             }
-          ],
+          ]
+        },
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "weight": 6,
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "floats": [
+                    1003
+                  ]
+                }
+              }
+            },
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "glatapack:christmas_sarajevo"
+              }
+            }
+          ]
+        },
+        {
+          "type": "minecraft:item",
           "name": "minecraft:gold_nugget",
-          "weight": 10
+          "weight": 10,
+          "modifier": [
+            {
+              "type": "minecraft:set_count",
+              "count": {
+                "type": "minecraft:uniform",
+                "max": 3,
+                "min": 1
+              }
+            }
+          ]
         },
         {
           "type": "minecraft:item",
@@ -87,19 +88,18 @@
         },
         {
           "type": "minecraft:item",
-          "functions": [
+          "name": "minecraft:wheat",
+          "weight": 10,
+          "modifier": [
             {
-              "add": false,
+              "type": "minecraft:set_count",
               "count": {
                 "type": "minecraft:uniform",
-                "max": 3.0,
-                "min": 2.0
-              },
-              "function": "minecraft:set_count"
+                "max": 3,
+                "min": 2
+              }
             }
-          ],
-          "name": "minecraft:wheat",
-          "weight": 10
+          ]
         }
       ],
       "rolls": {
@@ -116,7 +116,7 @@
           "name": "minecraft:golden_apple"
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:chests/igloo_chest"

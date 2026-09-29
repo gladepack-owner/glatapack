@@ -2,6 +2,12 @@
   "asset_id": "minecraft:ptable",
   "height": 3,
   "width": 4,
-  "title": {"text": "Elements of Minecraft", "color": "yellow"},
-  "author": {"text": "fabwilliam1729", "color": "gray"}
+  "title": {
+    "text": "Elements of Minecraft",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "fabwilliam1729",
+    "color": "gray"
+  }
 }

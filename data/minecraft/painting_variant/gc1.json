@@ -2,6 +2,12 @@
   "asset_id": "minecraft:gc1",
   "height": 1,
   "width": 2,
-  "title": {"text": "Gladecraft 1 Scenery", "color": "yellow"},
-  "author": {"text": "LogLug", "color": "gray"}
+  "title": {
+    "text": "Gladecraft 1 Scenery",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "LogLug",
+    "color": "gray"
+  }
 }

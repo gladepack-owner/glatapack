@@ -2,6 +2,12 @@
   "asset_id": "minecraft:il_mheg",
   "height": 1,
   "width": 2,
-  "title": {"text": "FFIXV Il Mheg Loading Screen", "color": "yellow"},
-  "author": {"text": "FFXIV Art Team", "color": "gray"}
+  "title": {
+    "text": "FFIXV Il Mheg Loading Screen",
+    "color": "yellow"
+  },
+  "author": {
+    "text": "FFXIV Art Team",
+    "color": "gray"
+  }
 }

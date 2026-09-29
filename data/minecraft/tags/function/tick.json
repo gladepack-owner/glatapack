@@ -1,1 +1,6 @@
-{"replace":false,"values":["glatapack.block:tick"]}
+{
+  "replace": false,
+  "values": [
+    "glatapack.block:tick"
+  ]
+}

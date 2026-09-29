@@ -3,9 +3,8 @@
     "requirement": {
       "trigger": "minecraft:item_used_on_block",
       "conditions": {
-        "location": [
-          {
-            "condition": "minecraft:match_tool",
+        "location": {
+            "type": "minecraft:match_tool",
             "predicate": {
               "items": [
                 "minecraft:glow_item_frame",
@@ -13,7 +12,6 @@
               ]
             }
           }
-        ]
       }
     }
   },

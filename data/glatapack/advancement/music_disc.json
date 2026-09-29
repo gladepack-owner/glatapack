@@ -1,17 +1,22 @@
 {
-	"display": {
-		"icon": {
-			"id": "minecraft:music_disc_13"
-		},
-		"title": {"translate":"Custom Music Discs"},
-		"description": {"color":"green","translate":"Adds custom music discs that can be found in the world"},
-		"show_toast": false,
-		"announce_to_chat": false
-	},
-    "parent": "glatapack:root",
-	"criteria": {
-		"tick": {
-			"trigger": "minecraft:tick"
-		}
-	}
+  "display": {
+    "icon": {
+      "id": "minecraft:music_disc_13"
+    },
+    "title": {
+      "translate": "Custom Music Discs"
+    },
+    "description": {
+      "color": "green",
+      "translate": "Adds custom music discs that can be found in the world"
+    },
+    "show_toast": false,
+    "announce_to_chat": false
+  },
+  "parent": "glatapack:root",
+  "criteria": {
+    "tick": {
+      "trigger": "minecraft:tick"
+    }
+  }
 }

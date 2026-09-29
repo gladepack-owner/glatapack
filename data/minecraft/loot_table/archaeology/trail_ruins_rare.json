@@ -53,25 +53,29 @@
           "name": "minecraft:music_disc_relic"
         },
         {
-          "type":"minecraft:item",
-          "name":"minecraft:music_disc_11",
-          "functions":[
-              {
-                  "function": "minecraft:set_components",
-                  "components": {
-                      "minecraft:custom_model_data": {"floats": [1007]}
-                  }
-              },
-              {
-                  "function":"minecraft:set_components",
-                  "components":{
-                      "minecraft:jukebox_playable": "glatapack:pioneers"
-                  }
+          "type": "minecraft:item",
+          "name": "minecraft:music_disc_11",
+          "modifier": [
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:custom_model_data": {
+                  "floats": [
+                    1007
+                  ]
+                }
               }
+            },
+            {
+              "type": "minecraft:set_components",
+              "components": {
+                "minecraft:jukebox_playable": "glatapack:pioneers"
+              }
+            }
           ]
         }
       ],
-      "rolls": 1.0
+      "rolls": 1
     }
   ],
   "random_sequence": "minecraft:archaeology/trail_ruins_rare"
